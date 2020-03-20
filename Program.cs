@@ -12,7 +12,7 @@ namespace DetectFace
     {
         private const string key = "<key>";
         private const string endPoint =
-            "https://westcentralus.api.cognitive.microsoft.com";
+            "https://westcentralus.api.cognitive.microsoft.com";  //Replace this with the endpoint your API uses
 
         // path = @"C:\Documents\LocalImage.jpg"
         private const string path = @"C:\Users\lenovo\Pictures\Debate\o-HIGH-SCHOOL-DEBATE-facebook.jpg";
